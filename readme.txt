@@ -1,8 +1,10 @@
 To-DO list
 ----------
 
-- Create template parts
+- Create template parts ====================DONE===================
 - Create Menus
+- Create a customizer
+- Download images from the original template
 - Enqueue style and scripts ======================DONE================
 - Create Custom Post Types (CPTs) ======================DONE======================
 - Create a contact form by using a free WP plugin

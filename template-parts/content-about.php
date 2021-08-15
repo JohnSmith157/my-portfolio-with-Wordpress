@@ -1,4 +1,14 @@
-<div class="vg-page page-about" id="about">
+<!-- Caption header -->
+<div class="caption-header text-center wow zoomInDown">
+      <h5 class="fw-normal">Welcome</h5>
+      <h1 class="fw-light mb-4">I'm <b class="fg-theme">Stephen</b> Doe</h1>
+      <div class="badge">UI/UX & Web Designer</div>
+    </div> <!-- End Caption header -->
+    <div class="floating-button"><span class="ti-mouse"></span></div>
+  </div>
+  
+  <!-- About Page -->
+  <div class="vg-page page-about" id="about">
     <div class="container py-5">
       <div class="row">
         <div class="col-lg-4 py-3">
@@ -20,7 +30,6 @@
         </div>
       </div>
     </div>
-    
     <div class="container py-5">
       <h1 class="text-center fw-normal wow fadeIn">My Skills</h1>
       <div class="row py-3">
@@ -140,4 +149,6 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> <!-- End About Page -->
+    
+    

@@ -85,17 +85,9 @@
           </ul>
           <ul class="nav ml-auto">
             <li class="nav-item">
-              <button class="btn btn-fab btn-theme no-shadow">En</button>
+              	<button class="btn btn-fab btn-theme no-shadow">En</button>
             </li>
           </ul>
         </div>
       </div>
     </div> <!-- End Navbar -->
-    <!-- Caption header -->
-    <div class="caption-header text-center wow zoomInDown">
-      <h5 class="fw-normal">Welcome</h5>
-      <h1 class="fw-light mb-4">I'm <b class="fg-theme">Stephen</b> Doe</h1>
-      <div class="badge">UI/UX & Web Designer</div>
-    </div> <!-- End Caption header -->
-    <div class="floating-button"><span class="ti-mouse"></span></div>
-  </div>
