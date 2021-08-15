@@ -1,6 +1,6 @@
 
 <!-- Footer -->
-<div class="vg-footer">
+  <div class="vg-footer">
     <h1 class="text-center">Virtual Folio</h1>
     <div class="container">
       <div class="row">

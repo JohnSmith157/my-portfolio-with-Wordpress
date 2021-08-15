@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html <?php language_attributes(); ?>>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,25 +12,10 @@
 
   <link rel="shortcut icon" href="../assets/favicon.ico" type="image/x-icon">
   
-  <link rel="stylesheet" type="text/css" href="../assets/css/themify-icons.css">
+  <?php wp_head(); ?>
   
-  <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">
-
-  <link rel="stylesheet" type="text/css" href="../assets/vendor/animate/animate.css">
-  
-  <link rel="stylesheet" type="text/css" href="../assets/vendor/owl-carousel/owl.carousel.css">
-  
-  <link rel="stylesheet" type="text/css" href="../assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css">
-  
-  <link rel="stylesheet" type="text/css" href="../assets/vendor/nice-select/css/nice-select.css">
-  
-  <link rel="stylesheet" type="text/css" href="../assets/vendor/fancybox/css/jquery.fancybox.min.css">
-  
-  <link rel="stylesheet" type="text/css" href="../assets/css/virtual.css">
-  
-  <link rel="stylesheet" type="text/css" href="../assets/css/topbar.virtual.css">
 </head>
-<body class="theme-red">
+<body class="theme-red" <?php body_class(); ?>>
   
   <!-- Back to top button -->
   <div class="btn-back_to_top">
@@ -106,3 +91,11 @@
         </div>
       </div>
     </div> <!-- End Navbar -->
+    <!-- Caption header -->
+    <div class="caption-header text-center wow zoomInDown">
+      <h5 class="fw-normal">Welcome</h5>
+      <h1 class="fw-light mb-4">I'm <b class="fg-theme">Stephen</b> Doe</h1>
+      <div class="badge">UI/UX & Web Designer</div>
+    </div> <!-- End Caption header -->
+    <div class="floating-button"><span class="ti-mouse"></span></div>
+  </div>
