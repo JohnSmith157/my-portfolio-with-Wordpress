@@ -4,7 +4,8 @@
  */
 get_header(); 
 ?>
-  
+
+
 <?php 
 /**
  * To load the template part content-about.php
@@ -16,16 +17,26 @@ get_template_part( 'template-parts/content', 'about' );
  */
 get_template_part( 'template-parts/content', 'skills' ); 
 
-/**
- * To load the template part content-education.php
- */
-get_template_part( 'template-parts/content', 'education' ); 
+?>
+    <div class="container pt-5">
+        <div class="row">
+            <?php
+            /**
+             * To load the template part content-education.php
+             */
+            get_template_part( 'template-parts/content', 'education' ); 
 
-/**
- * To load the template part content-experience.php
- */
-get_template_part( 'template-parts/content', 'experience' ); 
+            /**
+             * To load the template part content-experience.php
+             */
+            get_template_part( 'template-parts/content', 'experience' ); 
+            ?>
+        </div>
+    </div>
+    
+</div> <!-- End of About Page -->
 
+<?php
 /**
  * To load the template part content-portfolio.php
  */
