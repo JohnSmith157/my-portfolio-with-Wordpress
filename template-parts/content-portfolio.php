@@ -17,8 +17,8 @@
 
       <div class="gridder my-3">
         <div class="grid-item apps wow zoomIn">
-          <div class="img-place" data-src="../assets/img/work/work-1.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Mobile Travel App</h5> <p>Travel, Discovery</p>">
-            <img src="../assets/img/work/work-1.jpg" alt="">
+          <div class="img-place" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-1.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Mobile Travel App</h5> <p>Travel, Discovery</p>">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-1.jpg" alt="">
             <div class="img-caption">
               <h5 class="fg-theme">Mobile Travel App</h5>
               <p>Travel, Discovery</p>
@@ -26,8 +26,8 @@
           </div>
         </div>
         <div class="grid-item template wireframes wow zoomIn">
-          <div class="img-place" data-src="../assets/img/work/work-2.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Music App</h5> <p>Musics</p>">
-            <img src="../assets/img/work/work-2.jpg" alt="">
+          <div class="img-place" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-2.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Music App</h5> <p>Musics</p>">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-2.jpg" alt="">
             <div class="img-caption">
               <h5 class="fg-theme">Music App</h5>
               <p>Musics</p>
@@ -35,8 +35,8 @@
           </div>
         </div>
         <div class="grid-item apps ios wow zoomIn">
-          <div class="img-place" data-src="../assets/img/work/work-3.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Gaming Dashboard</h5> <p>Games, Streaming</p>">
-            <img src="../assets/img/work/work-3.jpg" alt="">
+          <div class="img-place" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-3.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Gaming Dashboard</h5> <p>Games, Streaming</p>">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-3.jpg" alt="">
             <div class="img-caption">
               <h5 class="fg-theme">Gaming Dashboard</h5>
               <p>Games, Streaming</p>
@@ -44,8 +44,8 @@
           </div>
         </div>
         <div class="grid-item graphic ui-ux wow zoomIn">
-          <div class="img-place" data-src="../assets/img/work/work-4.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Drugs Delivery App</h5> <p>Health, Drugs</p>">
-            <img src="../assets/img/work/work-4.jpg" alt="">
+          <div class="img-place" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-4.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Drugs Delivery App</h5> <p>Health, Drugs</p>">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-4.jpg" alt="">
             <div class="img-caption">
               <h5 class="fg-theme">Drugs Delivery App</h5>
               <p>Health, Drugs</p>
@@ -53,8 +53,8 @@
           </div>
         </div>
         <div class="grid-item apps ios wow zoomIn">
-          <div class="img-place" data-src="../assets/img/work/work-5.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Musics Discover</h5> <p>Musics, Dashboard</p>">
-            <img src="../assets/img/work/work-5.jpg" alt="">
+          <div class="img-place" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-5.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Musics Discover</h5> <p>Musics, Dashboard</p>">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-5.jpg" alt="">
             <div class="img-caption">
               <h5 class="fg-theme">Musics Discover</h5>
               <p>Musics, Dashboard</p>
@@ -62,8 +62,8 @@
           </div>
         </div>
         <div class="grid-item graphic ui-ux wireframes wow zoomIn">
-          <div class="img-place" data-src="../assets/img/work/work-6.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Game Streaming</h5> <p>Games, Streaming</p>">
-            <img src="../assets/img/work/work-6.jpg" alt="">
+          <div class="img-place" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-6.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Game Streaming</h5> <p>Games, Streaming</p>">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-6.jpg" alt="">
             <div class="img-caption">
               <h5 class="fg-theme">Game Streaming</h5>
               <p>Games, Streaming</p>

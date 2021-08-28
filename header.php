@@ -22,8 +22,17 @@
     <span class="ti-arrow-up"></span>
   </div>
   
-  
-  <div class="vg-page page-home" id="home" style="background-image: url(../assets/img/bg_image_1.jpg)">
+  <style>
+    /* CSS class to add the background image to the div with id home */
+    .background-image div {
+      background-image: url("<?php echo get_template_directory_uri(); ?>/assets/img/bg_image_1.jpg");
+      z-index: -1;
+      background-color: rgba(62, 57, 57, 0.8);
+    }
+  </style>
+
+  <div class="vg-page page-home background-image" id="home">
+    
     <!-- Navbar -->
     <div class="navbar navbar-expand-lg navbar-dark sticky" data-offset="500">
       <div class="container">

@@ -9,7 +9,7 @@
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="../assets/img/work/work-9.jpg" alt="">
+              <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-9.jpg" alt="">
             </div>
             <div class="caption">
               <a href="javascript:void(0)" class="post-category">Technology</a>
@@ -21,7 +21,7 @@
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="../assets/img/work/work-6.jpg" alt="">
+              <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-6.jpg" alt="">
             </div>
             <div class="caption">
               <a href="javascript:void(0)" class="post-category">Business</a>
@@ -33,7 +33,7 @@
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="../assets/img/work/work-1.jpg" alt="">
+              <img src="<?php echo get_template_directory_uri(); ?>/assets/img/work/work-1.jpg" alt="">
             </div>
             <div class="caption">
               <a href="javascript:void(0)" class="post-category">Design</a>
